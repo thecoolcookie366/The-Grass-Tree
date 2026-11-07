@@ -8,7 +8,7 @@ function getStartOptions() {
 		msDisplay: "always",
 		theme: "default",
 		hqTree: true,
-		offlineProd: true,
+		offlineProd: false,
 		hideChallenges: false,
 		showStory: true,
 		forceOneTab: false,
