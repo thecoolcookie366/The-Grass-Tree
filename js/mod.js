@@ -2,6 +2,7 @@ let modInfo = {
 	name: "The Grass Tree",
 	author: "thecoolcookie366",
 	pointsName: "grass",
+	id: "save got nuked",
 	modFiles: ["layers.js", "tree.js"],
 
 	discordName: "Cookie's Creations Server",
