@@ -1897,7 +1897,7 @@ addLayer("sb", {
     }},
     tooltip() { return "Savebank" },
     tabFormat: [
-        ["display-text", "<h2>Savebank</h2><br>Click a save below to load that backup.<br><span style='color: #ff4d4d; font-size: 11px;'>Warning: Loading a save will overwrite your current progress! Export your save first if you want to keep it.</span>"],
+        ["display-text", "<h2>Savebank</h2><br>Click a save below to load that backup.<br>If when loading a save it says 'This save appears to be from a different mod!' it's completely normal.<br>This just means the save was made before a data wipe.<br><span style='color: #ff4d4d; font-size: 11px;'>Warning: Loading a save will overwrite your current progress! Export your save first if you want to keep it.</span>"],
         "blank",
         "hr",
         "blank",
