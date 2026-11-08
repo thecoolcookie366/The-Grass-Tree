@@ -2,7 +2,7 @@ let modInfo = {
 	name: "The Grass Tree",
 	author: "thecoolcookie366",
 	pointsName: "grass",
-	id: "save got nuked",
+	id: "save got nuked 2",
 	modFiles: ["layers.js", "tree.js"],
 
 	discordName: "Cookie's Creations Server",
@@ -54,6 +54,7 @@ function getPointGen() {
 
 // You can add non-layer related variables that should to into "player" and be saved here, along with default values
 function addedPlayerData() { return {
+	highestTier: new Decimal(0),
 }}
 
 // Display extra things at the top of the page
